@@ -26,6 +26,7 @@ const  int shareSet = 256;
 const  int maxSamples = 8;
 const  int stackMaxSize=2048;
 const  int maxNonraph=31;
+
 struct fileIfo
 {
     std::string name;
